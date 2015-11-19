@@ -70,6 +70,10 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+P_EclipseVideoWithOpenCV/MyPoco/*
+P_EclipseVideoWithOpenCV/Tinyxml/*
+*.filters
+*.vcxproj
 
 # Visual Studio profiler
 *.psess
